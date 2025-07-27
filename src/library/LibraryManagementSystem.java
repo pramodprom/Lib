@@ -13,8 +13,8 @@ import java.time.temporal.ChronoUnit;
 public class LibraryManagementSystem {
     // Database connection details
     private static final String URL = "jdbc:mysql://localhost:3306/library_db";
-    private static final String USER = "root"; // Replace with your MySQL username
-    private static final String PASSWORD = "Pr@mOd#8310"; // Replace with your MySQL password
+    private static final String USER = "root";
+    private static final String PASSWORD = "Pr@mOd#8310";
 
     // GUI components
     private static JFrame frame;
